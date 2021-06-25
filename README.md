@@ -18,8 +18,8 @@ To customize the label of the time display on your background, do the following.
 ### Adjust timer location
 Change the following values to adjust the relative location of where the time will be printed on the Canvas.
 ```javascript
-const label_x_pos = ...;
-const label_y_oos = ...;
+const label_x_offset = ...;
+const label_y_offset = ...;
 ```
 ### Adjust music playlist
 By default, three free music from Wikimedia are used. To adjust, change the following:
